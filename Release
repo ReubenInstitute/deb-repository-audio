@@ -1,0 +1,23 @@
+Architectures: all arm64 amd64
+Codename: stable
+Components: main
+Date: Sun, 27 Sep 2026 21:38:39 +0000
+Label: Reuben Institute Audio
+Origin: Reuben Institute
+Suite: stable
+MD5Sum:
+ 9016c10211578429e75686ba9361583e           175104 Packages
+ 9784fdcc2b7db9e2a63f7ce188e62335            47172 Packages.gz
+ 8b6a9d32ba0c6cfb1be04a9a2733dc91              172 Release
+SHA1:
+ 7bf3357dd542385e3c0a66438f9e56262cafe1a3           175104 Packages
+ 37bf7e20502860768d956791ecc887e1b1864d7d            47172 Packages.gz
+ 33727e82ea28e0278ea293d0705773813e755144              172 Release
+SHA256:
+ 329448cef63f71d37690abc68813f68cbdb79d2f38f9c8f3bab40809203def1e           175104 Packages
+ 2dc09fa6ae35c66568dc7abade3497fe5b0072f2de232a8c4c0fd397608cb8e2            47172 Packages.gz
+ c7f34568a716acc13f4cb110043fd1f596ba6a55695ba213d2818e5d7f1a1195              172 Release
+SHA512:
+ 26e5b79cdc16302379eb86e4c2fbbd6653bcaf23faf16e74f7379c37722719587fa89ad9121fe3d69dbdb856e96f75a1c1b8771c761f68cddcc90c5d17aa1609           175104 Packages
+ 5f3dd86986b78410d9ca59577b9d5299e485eb6eb91fd0fcba9b066b0bfd5eaf54004b785edb825a0de5d19396e4c920d4d42ae970a9e315f9c37b8f0d9fbf00            47172 Packages.gz
+ d429ebde82917e546342213eb4a646ad06591e688bb17b568018b391932c241f0572a1750ac3353e7d36b0181bd39efa7ea04110e3a5197657f07c0bb9629ccc              172 Release
