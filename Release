@@ -1,23 +1,23 @@
 Architectures: all arm64 amd64
 Codename: stable
 Components: main
-Date: Sun, 27 Sep 2026 21:38:39 +0000
+Date: Sun, 27 Sep 2026 22:00:57 +0000
 Label: Reuben Institute Audio
 Origin: Reuben Institute
 Suite: stable
 MD5Sum:
- 9016c10211578429e75686ba9361583e           175104 Packages
- 9784fdcc2b7db9e2a63f7ce188e62335            47172 Packages.gz
- 8b6a9d32ba0c6cfb1be04a9a2733dc91              172 Release
+ ac1fa90d0fe9f80beeeab0f05fbe1eed           981504 Packages
+ fa79d63b95cc6abd3bc49fdc8791ec74           230248 Packages.gz
+ 9715d5a66985437d9f995e3ad73567b7              172 Release
 SHA1:
- 7bf3357dd542385e3c0a66438f9e56262cafe1a3           175104 Packages
- 37bf7e20502860768d956791ecc887e1b1864d7d            47172 Packages.gz
- 33727e82ea28e0278ea293d0705773813e755144              172 Release
+ 5cdd5dfa20348c932a5dca58f308a2446ffd4f60           981504 Packages
+ 354c0cb16f500b225271dc1d86c11b107638bc3e           230248 Packages.gz
+ b32f986161bc1cc3bf7d8d1cb4fe305d67ac7903              172 Release
 SHA256:
- 329448cef63f71d37690abc68813f68cbdb79d2f38f9c8f3bab40809203def1e           175104 Packages
- 2dc09fa6ae35c66568dc7abade3497fe5b0072f2de232a8c4c0fd397608cb8e2            47172 Packages.gz
- c7f34568a716acc13f4cb110043fd1f596ba6a55695ba213d2818e5d7f1a1195              172 Release
+ 584d41e5c4a3d3f7fd99d2c1658edb43719c911e9631daa3ba490e95639c8032           981504 Packages
+ 46d890c81162ab5c66a26d94ad81a60923a64978f4aadca3b6f237eba9fad7bf           230248 Packages.gz
+ f6b726bee2e7fedd3131b26361ad64d4bce9e0c5d4effbde15d6e02bebc7d3d9              172 Release
 SHA512:
- 26e5b79cdc16302379eb86e4c2fbbd6653bcaf23faf16e74f7379c37722719587fa89ad9121fe3d69dbdb856e96f75a1c1b8771c761f68cddcc90c5d17aa1609           175104 Packages
- 5f3dd86986b78410d9ca59577b9d5299e485eb6eb91fd0fcba9b066b0bfd5eaf54004b785edb825a0de5d19396e4c920d4d42ae970a9e315f9c37b8f0d9fbf00            47172 Packages.gz
- d429ebde82917e546342213eb4a646ad06591e688bb17b568018b391932c241f0572a1750ac3353e7d36b0181bd39efa7ea04110e3a5197657f07c0bb9629ccc              172 Release
+ 499f8b38ff369352b97c51c56808ac66fe1acba7c6b19fe5d0dcf18038504fa7c3b3d16bd1405493e17e46a5d0cd408c7b7b7aa925d59df5dbcc312429d924b3           981504 Packages
+ 62d9ac5c1cf4d10eb26f7dce2f57b8b6c52ea47c6f3a7e60958894180d0932e7ef046d05868c510fa653beb0f5cbed271a768623d2ac24114b77d135ea6f48a3           230248 Packages.gz
+ fd3fa743886ca2d162c9f4c47426bafc8fe82cb0e0bfd6f5e3fd01f519cd4217634f348a2ef4efc050dc352c3e6eaeff07ab94486305053230ee70b65b204df0              172 Release
